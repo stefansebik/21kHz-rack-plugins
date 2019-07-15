@@ -1,0 +1,42 @@
+{
+  "slug": "21kHz",
+  "name": "21kHz",
+  "version": "1.0.0",
+  "license": "MIT",
+  "brand": "21kHz",
+  "author": "21kHz",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/21kHz/21kHz-rack-plugins.git",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "kHzD_Inf",
+      "name": "D∞",
+      "description": "D∞ - pitch tools - 4hp",
+      "tags": [
+        "Tuner",
+        "Utility",
+        "Polyphonic"
+      ]
+    },
+    {
+      "slug": "kHzPalmLoop",
+      "name": "PalmLoop",
+      "description": "Palm Loop - basic VCO - 8hp",
+      "tags": [
+        "VCO"
+      ]
+    },
+    {
+      "slug": "kHzTachyonEntangler",
+      "name": "TachyonEntangler",
+      "description": "Tachyon Entangler - chaotic sync VCO - 20hp",
+      "tags": [
+        "VCO"
+      ]
+    }
+  ]
+}
