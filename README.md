@@ -1,7 +1,7 @@
 :exclamation::exclamation::exclamation: **forked from https://github.com/21kHz/21kHz-rack-plugins in order to migrate code to VCVRack v1** :exclamation::exclamation::exclamation: 
 
 
-# 21kHz 0.6.1
+# 21kHz ~~0.6.1~~ 1.0.0
 
 A couple of modules I made for [VCV Rack](https://vcvrack.com/). More to come. The following is a list of and documentation for each module in the plugin. Also, I've linked to audio demos next to the section title of some modules.
 
